@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Akira 
 
-<!--
-**akiratwang/akiratwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- 📜 Subject Instructor / Head Tutor / Tutor at The University of Melbourne 
+- ☕ Always up for a chat over coffee or drinks if you've got questions
+- 🎩 Freelance Consultant (Data Engineering, Data Science) at Pandas Intelligence
+- 💻 Former Lead Data Engineer at DXC Technology
+- :bookmark_tabs: View my current CV [live on Overleaf](https://www.overleaf.com/read/bvxrxqyfrhbd)
+- <img src="https://beloservice.files.wordpress.com/2016/03/herrmans-linkedin-logo-500x500.png" 
+width="15" height="15"/><a href="https://www.linkedin.com/in/akira-t-wang/"> ‏‏‎ ‎‏‏‎LinkedIn Profile</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="centre" src="https://raw.githubusercontent.com/akiratwang/akiratwang/main/5a3f73c.jpg" />
